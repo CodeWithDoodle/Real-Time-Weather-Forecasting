@@ -1,4 +1,4 @@
-# 🌦️ Weather Prediction System  
+# 🌦️ Real-Time-Weather-Forecasting 
 
 A machine learning-based **Weather Prediction System** that integrates **real-time weather data** from OpenWeatherMap with **historical data** to forecast **temperature, humidity, and rainfall probabilities**.  
 
